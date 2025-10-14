@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+models/*.joblib
+data/processed/
+.DS_Store
